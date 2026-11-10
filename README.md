@@ -80,7 +80,7 @@ SEO, content, ads, outreach and social posting.
 - [mcp-gsc](https://github.com/AminForou/mcp-gsc) ![stars](https://img.shields.io/github/stars/AminForou/mcp-gsc?style=flat&label=%E2%98%85&color=0a3664) - Ask Claude questions about your Google search traffic.
 - [opc-skills](https://github.com/ReScienceLab/opc-skills) ![stars](https://img.shields.io/github/stars/ReScienceLab/opc-skills?style=flat&label=%E2%98%85&color=0a3664) - AI skills that help solo founders grow their business.
 - [newsjack](https://github.com/elvisun/newsjack) ![stars](https://img.shields.io/github/stars/elvisun/newsjack?style=flat&label=%E2%98%85&color=0a3664) - An AI PR team that pitches your story to the news.
-- [skills](https://github.com/wondelai/skills) ![stars](https://img.shields.io/github/stars/wondelai/skills?style=flat&label=%E2%98%85&color=0a3664) - Lessons from famous business books, turned into AI skills.
+- [wondelai-skills](https://github.com/wondelai/skills) ![stars](https://img.shields.io/github/stars/wondelai/skills?style=flat&label=%E2%98%85&color=0a3664) - Lessons from famous business books, turned into AI skills.
 - [openserp](https://github.com/karust/openserp) ![stars](https://img.shields.io/github/stars/karust/openserp?style=flat&label=%E2%98%85&color=0a3664) - Get Google and Bing results for your own tools, free.
 - [postbot](https://github.com/gitcoffee-os/postbot) ![stars](https://img.shields.io/github/stars/gitcoffee-os/postbot?style=flat&label=%E2%98%85&color=0a3664) - Publish one article or video to many platforms at once.
 - [pymc-marketing](https://github.com/pymc-labs/pymc-marketing) ![stars](https://img.shields.io/github/stars/pymc-labs/pymc-marketing?style=flat&label=%E2%98%85&color=0a3664) - Find out which ads and channels really bring you sales.
@@ -108,7 +108,7 @@ Agents, automations, docs and dev tools that do real work.
 - [browser-use](https://github.com/browser-use/browser-use) ![stars](https://img.shields.io/github/stars/browser-use/browser-use?style=flat&label=%E2%98%85&color=0a3664) - An AI that clicks around websites and does tasks for you.
 - [paperclip](https://github.com/paperclipai/paperclip) ![stars](https://img.shields.io/github/stars/paperclipai/paperclip?style=flat&label=%E2%98%85&color=0a3664) - Run a team of AI agents like a small company.
 - [archify](https://github.com/tt-a1i/archify) ![stars](https://img.shields.io/github/stars/tt-a1i/archify?style=flat&label=%E2%98%85&color=0a3664) - Turn an idea into a clear, clickable diagram.
-- [meetily](https://github.com/Zackriya-Solutions/meetily) ![stars](https://img.shields.io/github/stars/Zackriya-Solutions/meetily?style=flat&label=%E2%98%85&color=0a3664) - Records your meetings and writes the summary, no bot joins the call.
+- [taste-skill](https://github.com/Leonxlnx/taste-skill) ![stars](https://img.shields.io/github/stars/Leonxlnx/taste-skill?style=flat&label=%E2%98%85&color=0a3664) - Gives your AI a designer's taste, so the pages it builds stop looking generic.
 - [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) ![stars](https://img.shields.io/github/stars/nextlevelbuilder/ui-ux-pro-max-skill?style=flat&label=%E2%98%85&color=0a3664) - Gives your AI a designer's eye for apps and websites.
 - [Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) ![stars](https://img.shields.io/github/stars/Egonex-AI/Understand-Anything?style=flat&label=%E2%98%85&color=0a3664) - Explore any code as a simple visual map.
 - [Agent-Reach](https://github.com/Panniantong/Agent-Reach) ![stars](https://img.shields.io/github/stars/Panniantong/Agent-Reach?style=flat&label=%E2%98%85&color=0a3664) - Lets your AI read Twitter, Reddit and YouTube.
@@ -121,7 +121,7 @@ Agents, automations, docs and dev tools that do real work.
 - [orca](https://github.com/stablyai/orca) ![stars](https://img.shields.io/github/stars/stablyai/orca?style=flat&label=%E2%98%85&color=0a3664) 🎬 - Run many AI coding assistants at once, even from your phone.
 - [t3code](https://github.com/pingdotgg/t3code) ![stars](https://img.shields.io/github/stars/pingdotgg/t3code?style=flat&label=%E2%98%85&color=0a3664) - Control your AI coding assistants from your phone.
 - [coolify](https://github.com/coollabsio/coolify) ![stars](https://img.shields.io/github/stars/coollabsio/coolify?style=flat&label=%E2%98%85&color=0a3664) - Host your own websites and apps on your own server.
-- [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) ![stars](https://img.shields.io/github/stars/paperless-ngx/paperless-ngx?style=flat&label=%E2%98%85&color=0a3664) - Scan your paper documents and find any of them in seconds.
+- [emilkowalski-skills](https://github.com/emilkowalski/skills) ![stars](https://img.shields.io/github/stars/emilkowalski/skills?style=flat&label=%E2%98%85&color=0a3664) - Teaches your AI the rules smooth, polished animations follow.
 - [firecrawl](https://github.com/firecrawl/firecrawl) ![stars](https://img.shields.io/github/stars/firecrawl/firecrawl?style=flat&label=%E2%98%85&color=0a3664) - Turn any website into clean text your AI can read.
 - [timesfm](https://github.com/google-research/timesfm) ![stars](https://img.shields.io/github/stars/google-research/timesfm?style=flat&label=%E2%98%85&color=0a3664) 🎬 - Google's AI that predicts what happens next in your numbers.
 

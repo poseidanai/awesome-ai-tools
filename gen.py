@@ -26,6 +26,8 @@ for k, title, blurb in cats:
         if repo not in keep:
             continue
         name = repo.split("/")[1]
+        if name.lower() in ("skills", "skill"):  # a bare "skills" says nothing: emilkowalski/skills -> emilkowalski-skills
+            name = repo.replace("/", "-")
         star = f"![stars](https://img.shields.io/github/stars/{repo}?style=flat&label=%E2%98%85&color=0a3664)"
         out.append(f"- [{name}](https://github.com/{repo}) {star}{' 🎬' if feat == 'y' else ''} - {desc}")
     out.append("")

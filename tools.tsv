@@ -45,7 +45,7 @@ build	career-ops-hq/career-ops	An AI that finds jobs, tailors your resume and pr
 build	browser-use/browser-use	An AI that clicks around websites and does tasks for you.	n
 build	paperclipai/paperclip	Run a team of AI agents like a small company.	n
 build	tt-a1i/archify	Turn an idea into a clear, clickable diagram.	n
-build	Zackriya-Solutions/meetily	Records your meetings and writes the summary, no bot joins the call.	n
+build	Leonxlnx/taste-skill	Gives your AI a designer's taste, so the pages it builds stop looking generic.	n
 build	nextlevelbuilder/ui-ux-pro-max-skill	Gives your AI a designer's eye for apps and websites.	n
 build	Egonex-AI/Understand-Anything	Explore any code as a simple visual map.	n
 build	Panniantong/Agent-Reach	Lets your AI read Twitter, Reddit and YouTube.	n
@@ -58,7 +58,7 @@ build	morluto/rea	An AI that takes apart any app or website to show how it works
 build	stablyai/orca	Run many AI coding assistants at once, even from your phone.	y
 build	pingdotgg/t3code	Control your AI coding assistants from your phone.	n
 build	coollabsio/coolify	Host your own websites and apps on your own server.	n
-build	paperless-ngx/paperless-ngx	Scan your paper documents and find any of them in seconds.	n
+build	emilkowalski/skills	Teaches your AI the rules smooth, polished animations follow.	n
 build	firecrawl/firecrawl	Turn any website into clean text your AI can read.	n
 build	assafelovic/gpt-researcher	Deep research with a report and sources.	n
 build	PDFMathTranslate/PDFMathTranslate	Translates PDFs and keeps formulas and layout.	n
@@ -73,6 +73,8 @@ build	googleworkspace/cli	One CLI for Gmail, Drive, Calendar and Sheets.	n
 build	Donchitos/Claude-Code-Game-Studios	49 agents working as a game studio in Claude Code.	n
 build	anthropics/knowledge-work-plugins	Claude plugins for roles: sales, finance, legal and more.	n
 build	kalil0321/reverse-api-engineer	Turns a website into an API from its browser traffic.	n
+build	Zackriya-Solutions/meetily	Records your meetings and writes the summary, no bot joins the call.	n
+build	paperless-ngx/paperless-ngx	Scan your paper documents and find any of them in seconds.	n
 marketing	nowork-studio/notfair-plugin	Ready-made SEO and marketing skills for your AI assistant.	n
 marketing	yaojingang/GEOFlow	Write content that AI search engines love, and publish it.	n
 marketing	AminForou/mcp-gsc	Ask Claude questions about your Google search traffic.	n
