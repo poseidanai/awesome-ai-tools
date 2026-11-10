@@ -1,0 +1,3 @@
+- [ ] One tool, one line, plain words
+- [ ] Open source license and a commit in the last 3 months
+- [ ] Right section (Creative, Marketing or Build)
