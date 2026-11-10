@@ -8,8 +8,8 @@ out = ["# Awesome AI Tools", "",
        "[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC0](https://img.shields.io/badge/license-CC0-blue.svg)](LICENSE)", "",
        "Open source AI tools that do one real job well, picked for creators, marketers and builders by [PoseidanAI](https://github.com/poseidanai).",
        "", "Every tool here is free to use, has a real license and is alive (pushed in the last months).",
-       "", "**[See the live ranking at poseidanai.com/top →](https://poseidanai.com/top/)** Tools move up and down every day as people star them. Hover any tool there to see it in action.",
-       "", "[![Live AI Tools Board](assets/live-board.png)](https://poseidanai.com/top/)",
+       "", "**[See the live ranking at poseidanai.com/github-trends →](https://poseidanai.com/github-trends/)** Tools move up and down every day as people star them. Hover any tool there to see it in action.",
+       "", "[![Live AI Tools Board](assets/live-board.png)](https://poseidanai.com/github-trends/)",
        "", "🎬 = we made a video about it.", "", "## Contents", ""]
 for k, title, _ in cats:
     anchor = "-" + title.split(" ", 1)[1].lower()
@@ -36,6 +36,6 @@ out += ["## Built with PoseidanAI", "",
         "```markdown", "[![Built with PoseidanAI](https://img.shields.io/badge/built%20with-PoseidanAI-0a3664)](https://github.com/poseidanai)", "```", "",
         "_Be the first one._", "",
         "## Contributing", "",
-        "Know a tool that belongs here? Read [CONTRIBUTING.md](CONTRIBUTING.md) and open a PR. One tool per PR, one line, no affiliate links. Live ranking: [poseidanai.com/top](https://poseidanai.com/top/)", ""]
+        "Know a tool that belongs here? Read [CONTRIBUTING.md](CONTRIBUTING.md) and open a PR. One tool per PR, one line, no affiliate links. Live ranking: [poseidanai.com/github-trends](https://poseidanai.com/github-trends/)", ""]
 open("README.md", "w").write("\n".join(out))
 print(len([r for r in rows]), "tools")

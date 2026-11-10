@@ -6,9 +6,9 @@ Open source AI tools that do one real job well, picked for creators, marketers a
 
 Every tool here is free to use, has a real license and is alive (pushed in the last months).
 
-**[See the live ranking at poseidanai.com/top →](https://poseidanai.com/top/)** Tools move up and down every day as people star them. Hover any tool there to see it in action.
+**[See the live ranking at poseidanai.com/github-trends →](https://poseidanai.com/github-trends/)** Tools move up and down every day as people star them. Hover any tool there to see it in action.
 
-[![Live AI Tools Board](assets/live-board.png)](https://poseidanai.com/top/)
+[![Live AI Tools Board](assets/live-board.png)](https://poseidanai.com/github-trends/)
 
 🎬 = we made a video about it.
 
@@ -137,4 +137,4 @@ _Be the first one._
 
 ## Contributing
 
-Know a tool that belongs here? Read [CONTRIBUTING.md](CONTRIBUTING.md) and open a PR. One tool per PR, one line, no affiliate links. Live ranking: [poseidanai.com/top](https://poseidanai.com/top/)
+Know a tool that belongs here? Read [CONTRIBUTING.md](CONTRIBUTING.md) and open a PR. One tool per PR, one line, no affiliate links. Live ranking: [poseidanai.com/github-trends](https://poseidanai.com/github-trends/)

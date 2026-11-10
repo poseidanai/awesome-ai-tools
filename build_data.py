@@ -2,7 +2,7 @@
 """Live AI Tools Board data (09.11.2026).
 
 Reads tools.tsv (category, repo, description, featured y/n), asks GitHub for the star counts and writes
-data.json for the page poseidanai.com/top. Uses the public search API without a token: several
+data.json for the page poseidanai.com/github-trends. Uses the public search API without a token: several
 `repo:` qualifiers per query, 10 queries a minute at most. Keeps history.json (one sample per hour, 8 days)
 so the page can show the gain of the last 24 hours.
 
