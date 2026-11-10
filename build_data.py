@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Live AI Tools Board data (09.11.2026).
 
-Reads tools.tsv (category, repo, description, featured y/n, tags), asks GitHub for the star counts and writes
+Reads tools.tsv (category, repo, description, featured y/n, tags, kind), asks GitHub for the star counts and writes
 data.json for the page poseidanai.com/github-trends. Uses the public search API without a token: several
 `repo:` qualifiers per query, 10 queries a minute at most. Keeps history.json (one sample per hour, 8 days)
 so the page can show the gain of the last 24 hours.
@@ -31,7 +31,8 @@ def load_rows(path):
         parts = line.rstrip("\n").split("\t")
         if len(parts) >= 4 and parts[1]:
             rows.append({"category": parts[0], "repo": parts[1], "desc": parts[2], "featured": parts[3] == "y",
-                         "tags": (parts[4].split() if len(parts) > 4 else [])[:3]})
+                         "tags": (parts[4].split() if len(parts) > 4 else [])[:3],
+                         "kind": parts[5].strip() if len(parts) > 5 else ""})
     return rows
 
 
@@ -118,6 +119,8 @@ def main():
         item = {"repo": r["repo"], "desc": r["desc"], "stars": stars, "license": lic, "featured": r["featured"]}
         if r["tags"]:
             item["tags"] = r["tags"]
+        if r["kind"]:
+            item["kind"] = r["kind"]
         if old and r["repo"] in old["stars"]:
             item["stars_24h"] = old["stars"][r["repo"]]
         cats[r["category"]].append(item)
