@@ -14,6 +14,7 @@ Thanks for helping. One tool per pull request.
 1. Put it in the right section: Creative (video, image, voice, music, 3D), Marketing (SEO, content, ads, outreach, social) or Build (agents, automation, docs, dev tools).
 2. One line, same format as the others, written so someone who never coded understands it:
    `- [name](link) - What it does for you, in plain words.`
-3. No affiliate links, no "the best", no emojis in the description.
+3. Add up to 3 short tags of what it does, lowercase, one word each: `#videogen` `#seo` `#webdev`.
+4. No affiliate links, no "the best", no emojis in the description.
 
 Built something on a PoseidanAI tool? Add it under **Built with PoseidanAI** and put the badge in your README.

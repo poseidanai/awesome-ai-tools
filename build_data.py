@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Live AI Tools Board data (09.11.2026).
 
-Reads tools.tsv (category, repo, description, featured y/n), asks GitHub for the star counts and writes
+Reads tools.tsv (category, repo, description, featured y/n, tags), asks GitHub for the star counts and writes
 data.json for the page poseidanai.com/github-trends. Uses the public search API without a token: several
 `repo:` qualifiers per query, 10 queries a minute at most. Keeps history.json (one sample per hour, 8 days)
 so the page can show the gain of the last 24 hours.
@@ -30,7 +30,8 @@ def load_rows(path):
     for line in open(path, encoding="utf-8"):
         parts = line.rstrip("\n").split("\t")
         if len(parts) >= 4 and parts[1]:
-            rows.append({"category": parts[0], "repo": parts[1], "desc": parts[2], "featured": parts[3] == "y"})
+            rows.append({"category": parts[0], "repo": parts[1], "desc": parts[2], "featured": parts[3] == "y",
+                         "tags": (parts[4].split() if len(parts) > 4 else [])[:3]})
     return rows
 
 
@@ -95,9 +96,14 @@ def main():
     now = dt.datetime.now(dt.timezone.utc)
     day_ago = now - dt.timedelta(hours=20)  # daily runs: the previous day sample
     old = None
-    for sample in hist:  # the newest sample that is at least 24 h old
+    for sample in hist:  # the newest sample that is at least 20 h old
         if dt.datetime.fromisoformat(sample["at"]) <= day_ago:
             old = sample
+    if old is None:  # a young board (first days): the oldest sample at least 10 h old, so the gain shows from day one
+        for sample in hist:
+            if dt.datetime.fromisoformat(sample["at"]) <= now - dt.timedelta(hours=10):
+                old = sample
+                break
     cats = {"creative": [], "marketing": [], "build": []}
     missing = []
     for r in rows:
@@ -110,6 +116,8 @@ def main():
         else:
             stars, lic = g["stargazers_count"], (g.get("license") or {}).get("spdx_id")
         item = {"repo": r["repo"], "desc": r["desc"], "stars": stars, "license": lic, "featured": r["featured"]}
+        if r["tags"]:
+            item["tags"] = r["tags"]
         if old and r["repo"] in old["stars"]:
             item["stars_24h"] = old["stars"][r["repo"]]
         cats[r["category"]].append(item)
@@ -120,6 +128,11 @@ def main():
     for sample in hist:
         per_day[sample["at"][:10]] = sample
     days = [per_day[d] for d in sorted(per_day) if d < now.date().isoformat()][-6:]
+    if len(days) < 2:  # under 3 days of history: one point per hour from all samples, so the line shows from day one
+        per_hour = {}
+        for sample in hist:
+            per_hour[sample["at"][:13]] = sample
+        days = [per_hour[h] for h in sorted(per_hour)][-12:]
     for v in cats.values():
         for i in v:
             t = [d["stars"][i["repo"]] for d in days if i["repo"] in d["stars"]] + [i["stars"]]

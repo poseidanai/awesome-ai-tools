@@ -1,105 +1,105 @@
-creative	storytold/photocraft	A free Photoshop-like photo editor that runs in your browser.	n
-creative	heygen-com/hyperframes	Describe a video in words and get a finished MP4.	n
-creative	debpalash/VoiceStudio	Copy any voice and make voiceovers on your own computer, free.	n
-creative	harry0703/MoneyPrinterTurbo	Type a topic, get a ready short video with voice and subtitles.	n
-creative	nexu-io/open-design	An AI designer on your computer for mockups, slides and animations.	n
-creative	Comfy-Org/ComfyUI	Connect blocks like Lego to make your own AI images and videos.	n
-creative	storytold/filmcraft	A free video editor for cutting, color and sound.	n
-creative	storytold/artcraft	A free studio to create and edit AI art and scenes.	y
-creative	ahujasid/mcp-for-blender	Build 3D scenes in Blender just by telling Claude what you want.	n
-creative	OpenMontageInc/OpenMontage	An AI that makes a whole video for you: script, shots and edit.	n
-creative	zhouxiaoka/autoclip	Paste a long video, get short viral clips with captions.	n
-creative	Huanshere/VideoLingo	Add translated subtitles and dubbing to any video.	n
-creative	multimodal-art-projection/YuE	Make full songs with vocals from your lyrics.	n
-creative	jub0t/Concat	A free, simple video editor for Mac, Windows and Linux.	n
-creative	latent-spaces/brag	Make a launch video for your project with one command.	n
-creative	microsoft/TRELLIS	Turn a picture into a 3D model.	n
-creative	Wan-Video/Wan2.2	A free AI model that makes videos from text or a picture.	n
-marketing	mvanhorn/last30days-skill	See what people said about any topic in the last 30 days.	n
-marketing	blader/humanizer	Make AI-written text sound like a real person wrote it.	n
-marketing	coreyhaines31/marketingskills	Teach your AI assistant to do marketing: copy, SEO and ads.	n
-marketing	every-app/open-seo	A free alternative to Semrush and Ahrefs for SEO research.	n
-marketing	AgriciDaniel/claude-seo	Get a full SEO check of your website in 15 minutes.	n
-marketing	gitroomhq/postiz-app	Schedule posts to all your social media from one place.	n
-marketing	666ghj/MiroFish	Test how thousands of people would react to your idea before you launch.	n
-marketing	ethanplusai/sellbird	An AI that finds clients and writes your sales emails.	n
-marketing	zubair-trabzada/geo-seo-claude	Help your website show up in ChatGPT and Perplexity answers.	n
-marketing	AgriciDaniel/claude-ads	Your AI checks your ads on 12 platforms and tells you what to fix.	n
-marketing	darkzOGx/youtube-automation-agent	An AI that runs your YouTube channel, you just approve.	n
-marketing	leaperone/MultiPost-Extension	Post once and share it to many social networks in one click.	n
-marketing	eracle/OpenOutreach	Find business clients for your product and reach out to them.	n
-marketing	AgriciDaniel/claude-blog	Write blog posts with real sources that rank on Google.	n
-marketing	brightbeanxyz/brightbean-studio	Manage all your social media accounts in one place.	n
-marketing	aaron-he-zhu/aaron-marketing-skills	120 marketing skills for your AI assistant.	n
-build	JuliusBrussee/caveman	Makes your AI talk shorter, so it costs about a third less.	n
-build	microsoft/markitdown	Turn any file (PDF, Word, Excel) into text your AI can read.	n
-build	Graphify-Labs/graphify	Turn a whole project into a map your AI can understand.	y
-build	Stirling-Tools/Stirling-PDF	Edit, sign, merge and convert PDFs for free.	n
-build	NousResearch/hermes-agent	An AI assistant that learns new skills by itself.	n
-build	hugohe3/ppt-master	Turn any document into a real, editable PowerPoint.	n
-build	DietrichGebert/ponytail	Makes your AI write less code and spend fewer tokens.	n
-build	thedotmack/claude-mem	Your AI remembers what you worked on yesterday.	n
-build	obra/superpowers	Makes your AI coding assistant plan, test and build like a senior developer.	n
-build	n8n-io/n8n	Connect your apps and automate busywork, drag and drop.	n
-build	career-ops-hq/career-ops	An AI that finds jobs, tailors your resume and preps you.	y
-build	browser-use/browser-use	An AI that clicks around websites and does tasks for you.	n
-build	paperclipai/paperclip	Run a team of AI agents like a small company.	n
-build	tt-a1i/archify	Turn an idea into a clear, clickable diagram.	n
-build	Leonxlnx/taste-skill	Gives your AI a designer's taste, so the pages it builds stop looking generic.	n
-build	nextlevelbuilder/ui-ux-pro-max-skill	Gives your AI a designer's eye for apps and websites.	n
-build	Egonex-AI/Understand-Anything	Explore any code as a simple visual map.	n
-build	Panniantong/Agent-Reach	Lets your AI read Twitter, Reddit and YouTube.	n
-build	rtk-ai/rtk	Makes your AI assistant much cheaper to run.	n
-build	headroomlabs-ai/headroom	Cuts what you send to AI, so you pay less for the same answers.	y
-build	cheaper-inference/OmniRoute	Use hundreds of AI models from one place, many for free.	n
-build	pbakaus/impeccable	Stops your AI from making websites that look AI-made.	n
-build	HKUDS/CLI-Anything	Lets your AI use any app on your computer.	y
-build	morluto/rea	An AI that takes apart any app or website to show how it works.	y
-build	stablyai/orca	Run many AI coding assistants at once, even from your phone.	y
-build	pingdotgg/t3code	Control your AI coding assistants from your phone.	n
-build	coollabsio/coolify	Host your own websites and apps on your own server.	n
-build	emilkowalski/skills	Teaches your AI the rules smooth, polished animations follow.	n
-build	firecrawl/firecrawl	Turn any website into clean text your AI can read.	n
-build	assafelovic/gpt-researcher	Deep research with a report and sources.	n
-build	PDFMathTranslate/PDFMathTranslate	Translates PDFs and keeps formulas and layout.	n
-build	farion1231/cc-switch	Switch providers and settings of your coding agents in one click.	n
-build	docling-project/docling	Parses documents for AI.	n
-build	upstash/context7	Gives your agent fresh docs for any library.	n
-build	JCodesMore/ai-website-cloner-template	Clones any website into Next.js with one command.	n
-build	docusealco/docuseal	Self hosted DocuSign alternative: forms and signatures.	n
-build	google-research/timesfm	Google's AI that predicts what happens next in your numbers.	y
-build	nexmoe/VidBee	Downloads videos and transcribes them locally with speakers.	n
-build	googleworkspace/cli	One CLI for Gmail, Drive, Calendar and Sheets.	n
-build	Donchitos/Claude-Code-Game-Studios	49 agents working as a game studio in Claude Code.	n
-build	anthropics/knowledge-work-plugins	Claude plugins for roles: sales, finance, legal and more.	n
-build	kalil0321/reverse-api-engineer	Turns a website into an API from its browser traffic.	n
-build	Zackriya-Solutions/meetily	Records your meetings and writes the summary, no bot joins the call.	n
-build	paperless-ngx/paperless-ngx	Scan your paper documents and find any of them in seconds.	n
-marketing	nowork-studio/notfair-plugin	Ready-made SEO and marketing skills for your AI assistant.	n
-marketing	yaojingang/GEOFlow	Write content that AI search engines love, and publish it.	n
-marketing	AminForou/mcp-gsc	Ask Claude questions about your Google search traffic.	n
-marketing	ReScienceLab/opc-skills	AI skills that help solo founders grow their business.	n
-marketing	elvisun/newsjack	An AI PR team that pitches your story to the news.	n
-marketing	wondelai/skills	Lessons from famous business books, turned into AI skills.	n
-marketing	karust/openserp	Get Google and Bing results for your own tools, free.	n
-marketing	gitcoffee-os/postbot	Publish one article or video to many platforms at once.	n
-marketing	pymc-labs/pymc-marketing	Find out which ads and channels really bring you sales.	n
-marketing	umami-software/umami	See who visits your website, without cookies or Google.	n
-marketing	plausible/analytics	Simple website stats, a private alternative to Google Analytics.	n
-marketing	knadh/listmonk	Send newsletters to your list from your own server.	n
-marketing	rybbit-io/rybbit	Easy, private website analytics.	n
-marketing	matomo-org/matomo	Full website analytics where you own all the data.	n
-marketing	mettle/sendportal	Self hosted email marketing for newsletters at low cost.	n
-creative	RVC-Boss/GPT-SoVITS	Copy a voice from one minute of audio and make it say anything.	n
-creative	OpenBMB/VoxCPM	Turn text into a natural voice in many languages.	n
-creative	invoke-ai/InvokeAI	A free studio to make and edit AI images on your computer.	n
-creative	HBAI-Ltd/Toonflow-app	Turn a story into a full animated video with characters and scenes.	n
-creative	danielgatis/rembg	Remove the background from any photo automatically.	n
-creative	DrewThomasson/ebook2audiobook	Turn any ebook into an audiobook.	n
-creative	jianchang512/pyvideotrans	Translate a video into another language with a new voice and subtitles.	n
-creative	huggingface/diffusers	The engine many AI image and video apps are built on.	n
-creative	3b1b/manim	Make smooth explainer animations like the famous math videos.	n
-creative	mifi/lossless-cut	Cut and join videos in seconds without losing quality.	n
-creative	getopenscreen/openscreen	Record your screen and make clean demo videos, no watermark.	n
-creative	GraphiteEditor/Graphite	A free design app for graphics, logos and simple animations.	n
-creative	Zulko/moviepy	Edit videos automatically with a few lines of code.	n
+creative	storytold/photocraft	A free Photoshop-like photo editor that runs in your browser.	n	photoedit design browser
+creative	heygen-com/hyperframes	Describe a video in words and get a finished MP4.	n	videogen text2video motion
+creative	debpalash/VoiceStudio	Copy any voice and make voiceovers on your own computer, free.	n	voiceclone tts local
+creative	harry0703/MoneyPrinterTurbo	Type a topic, get a ready short video with voice and subtitles.	n	shortvideo videogen autopilot
+creative	nexu-io/open-design	An AI designer on your computer for mockups, slides and animations.	n	design slides mockups
+creative	Comfy-Org/ComfyUI	Connect blocks like Lego to make your own AI images and videos.	n	imagegen videogen workflows
+creative	storytold/filmcraft	A free video editor for cutting, color and sound.	n	videoedit color audio
+creative	storytold/artcraft	A free studio to create and edit AI art and scenes.	y	imagegen art scenes
+creative	ahujasid/mcp-for-blender	Build 3D scenes in Blender just by telling Claude what you want.	n	3d blender mcp
+creative	OpenMontageInc/OpenMontage	An AI that makes a whole video for you: script, shots and edit.	n	videogen script autopilot
+creative	zhouxiaoka/autoclip	Paste a long video, get short viral clips with captions.	n	shortvideo clips captions
+creative	Huanshere/VideoLingo	Add translated subtitles and dubbing to any video.	n	subtitles dubbing translate
+creative	multimodal-art-projection/YuE	Make full songs with vocals from your lyrics.	n	music songs vocals
+creative	jub0t/Concat	A free, simple video editor for Mac, Windows and Linux.	n	videoedit desktop free
+creative	latent-spaces/brag	Make a launch video for your project with one command.	n	launchvideo promo cli
+creative	microsoft/TRELLIS	Turn a picture into a 3D model.	n	3d image2model research
+creative	Wan-Video/Wan2.2	A free AI model that makes videos from text or a picture.	n	videogen text2video openmodel
+marketing	mvanhorn/last30days-skill	See what people said about any topic in the last 30 days.	n	research trends social
+marketing	blader/humanizer	Make AI-written text sound like a real person wrote it.	n	writing humanize copy
+marketing	coreyhaines31/marketingskills	Teach your AI assistant to do marketing: copy, SEO and ads.	n	skills seo copywriting
+marketing	every-app/open-seo	A free alternative to Semrush and Ahrefs for SEO research.	n	seo keywords free
+marketing	AgriciDaniel/claude-seo	Get a full SEO check of your website in 15 minutes.	n	seo audit claude
+marketing	gitroomhq/postiz-app	Schedule posts to all your social media from one place.	n	socialmedia scheduler selfhost
+marketing	666ghj/MiroFish	Test how thousands of people would react to your idea before you launch.	n	simulation research launch
+marketing	ethanplusai/sellbird	An AI that finds clients and writes your sales emails.	n	sales leads email
+marketing	zubair-trabzada/geo-seo-claude	Help your website show up in ChatGPT and Perplexity answers.	n	geo aisearch seo
+marketing	AgriciDaniel/claude-ads	Your AI checks your ads on 12 platforms and tells you what to fix.	n	ads audit claude
+marketing	darkzOGx/youtube-automation-agent	An AI that runs your YouTube channel, you just approve.	n	youtube agent autopilot
+marketing	leaperone/MultiPost-Extension	Post once and share it to many social networks in one click.	n	socialmedia crosspost extension
+marketing	eracle/OpenOutreach	Find business clients for your product and reach out to them.	n	leads outreach linkedin
+marketing	AgriciDaniel/claude-blog	Write blog posts with real sources that rank on Google.	n	blog seo writing
+marketing	brightbeanxyz/brightbean-studio	Manage all your social media accounts in one place.	n	socialmedia scheduler selfhost
+marketing	aaron-he-zhu/aaron-marketing-skills	120 marketing skills for your AI assistant.	n	skills marketing claude
+build	JuliusBrussee/caveman	Makes your AI talk shorter, so it costs about a third less.	n	tokens cost claude
+build	microsoft/markitdown	Turn any file (PDF, Word, Excel) into text your AI can read.	n	docs2text pdf rag
+build	Graphify-Labs/graphify	Turn a whole project into a map your AI can understand.	y	codemap context agents
+build	Stirling-Tools/Stirling-PDF	Edit, sign, merge and convert PDFs for free.	n	pdf editor selfhost
+build	NousResearch/hermes-agent	An AI assistant that learns new skills by itself.	n	agent selflearning openmodel
+build	hugohe3/ppt-master	Turn any document into a real, editable PowerPoint.	n	slides pptx docs
+build	DietrichGebert/ponytail	Makes your AI write less code and spend fewer tokens.	n	tokens coding cost
+build	thedotmack/claude-mem	Your AI remembers what you worked on yesterday.	n	memory claude coding
+build	obra/superpowers	Makes your AI coding assistant plan, test and build like a senior developer.	n	coding workflow skills
+build	n8n-io/n8n	Connect your apps and automate busywork, drag and drop.	n	automation workflows nocode
+build	career-ops-hq/career-ops	An AI that finds jobs, tailors your resume and preps you.	y	jobs resume agent
+build	browser-use/browser-use	An AI that clicks around websites and does tasks for you.	n	browser agent automation
+build	paperclipai/paperclip	Run a team of AI agents like a small company.	n	agents team orchestration
+build	tt-a1i/archify	Turn an idea into a clear, clickable diagram.	n	diagrams ideas visual
+build	Leonxlnx/taste-skill	Gives your AI a designer's taste, so the pages it builds stop looking generic.	n	webdesign frontend skills
+build	nextlevelbuilder/ui-ux-pro-max-skill	Gives your AI a designer's eye for apps and websites.	n	webdesign uiux skills
+build	Egonex-AI/Understand-Anything	Explore any code as a simple visual map.	n	codemap visual learning
+build	Panniantong/Agent-Reach	Lets your AI read Twitter, Reddit and YouTube.	n	agent social research
+build	rtk-ai/rtk	Makes your AI assistant much cheaper to run.	n	tokens cost cli
+build	headroomlabs-ai/headroom	Cuts what you send to AI, so you pay less for the same answers.	y	tokens cost proxy
+build	cheaper-inference/OmniRoute	Use hundreds of AI models from one place, many for free.	n	llmrouter models free
+build	pbakaus/impeccable	Stops your AI from making websites that look AI-made.	n	webdesign frontend skills
+build	HKUDS/CLI-Anything	Lets your AI use any app on your computer.	y	agent desktop cli
+build	morluto/rea	An AI that takes apart any app or website to show how it works.	y	reverse research agent
+build	stablyai/orca	Run many AI coding assistants at once, even from your phone.	y	coding agents mobile
+build	pingdotgg/t3code	Control your AI coding assistants from your phone.	n	coding agents mobile
+build	coollabsio/coolify	Host your own websites and apps on your own server.	n	hosting selfhost webdev
+build	emilkowalski/skills	Teaches your AI the rules smooth, polished animations follow.	n	animation frontend skills
+build	firecrawl/firecrawl	Turn any website into clean text your AI can read.	n	scraping web2text rag
+build	assafelovic/gpt-researcher	Deep research with a report and sources.	n	research reports agent
+build	PDFMathTranslate/PDFMathTranslate	Translates PDFs and keeps formulas and layout.	n	pdf translate science
+build	farion1231/cc-switch	Switch providers and settings of your coding agents in one click.	n	coding config providers
+build	docling-project/docling	Parses documents for AI.	n	docs2text parsing rag
+build	upstash/context7	Gives your agent fresh docs for any library.	n	docs mcp coding
+build	JCodesMore/ai-website-cloner-template	Clones any website into Next.js with one command.	n	webdev clone nextjs
+build	docusealco/docuseal	Self hosted DocuSign alternative: forms and signatures.	n	esign forms selfhost
+build	google-research/timesfm	Google's AI that predicts what happens next in your numbers.	y	forecasting data google
+build	nexmoe/VidBee	Downloads videos and transcribes them locally with speakers.	n	download transcribe local
+build	googleworkspace/cli	One CLI for Gmail, Drive, Calendar and Sheets.	n	gmail gsuite cli
+build	Donchitos/Claude-Code-Game-Studios	49 agents working as a game studio in Claude Code.	n	gamedev agents claude
+build	anthropics/knowledge-work-plugins	Claude plugins for roles: sales, finance, legal and more.	n	plugins claude business
+build	kalil0321/reverse-api-engineer	Turns a website into an API from its browser traffic.	n	api reverse scraping
+build	Zackriya-Solutions/meetily	Records your meetings and writes the summary, no bot joins the call.	n	meetings notes local
+build	paperless-ngx/paperless-ngx	Scan your paper documents and find any of them in seconds.	n	documents ocr selfhost
+marketing	nowork-studio/notfair-plugin	Ready-made SEO and marketing skills for your AI assistant.	n	skills seo marketing
+marketing	yaojingang/GEOFlow	Write content that AI search engines love, and publish it.	n	geo content aisearch
+marketing	AminForou/mcp-gsc	Ask Claude questions about your Google search traffic.	n	seo searchconsole mcp
+marketing	ReScienceLab/opc-skills	AI skills that help solo founders grow their business.	n	skills founders growth
+marketing	elvisun/newsjack	An AI PR team that pitches your story to the news.	n	pr news outreach
+marketing	wondelai/skills	Lessons from famous business books, turned into AI skills.	n	skills business books
+marketing	karust/openserp	Get Google and Bing results for your own tools, free.	n	serp search api
+marketing	gitcoffee-os/postbot	Publish one article or video to many platforms at once.	n	crosspost publishing video
+marketing	pymc-labs/pymc-marketing	Find out which ads and channels really bring you sales.	n	ads attribution analytics
+marketing	umami-software/umami	See who visits your website, without cookies or Google.	n	analytics privacy selfhost
+marketing	plausible/analytics	Simple website stats, a private alternative to Google Analytics.	n	analytics privacy selfhost
+marketing	knadh/listmonk	Send newsletters to your list from your own server.	n	newsletter email selfhost
+marketing	rybbit-io/rybbit	Easy, private website analytics.	n	analytics privacy selfhost
+marketing	matomo-org/matomo	Full website analytics where you own all the data.	n	analytics selfhost data
+marketing	mettle/sendportal	Self hosted email marketing for newsletters at low cost.	n	newsletter email selfhost
+creative	RVC-Boss/GPT-SoVITS	Copy a voice from one minute of audio and make it say anything.	n	voiceclone tts openmodel
+creative	OpenBMB/VoxCPM	Turn text into a natural voice in many languages.	n	tts voice multilingual
+creative	invoke-ai/InvokeAI	A free studio to make and edit AI images on your computer.	n	imagegen studio local
+creative	HBAI-Ltd/Toonflow-app	Turn a story into a full animated video with characters and scenes.	n	animation story videogen
+creative	danielgatis/rembg	Remove the background from any photo automatically.	n	removebg photo image
+creative	DrewThomasson/ebook2audiobook	Turn any ebook into an audiobook.	n	audiobook tts ebooks
+creative	jianchang512/pyvideotrans	Translate a video into another language with a new voice and subtitles.	n	translate dubbing subtitles
+creative	huggingface/diffusers	The engine many AI image and video apps are built on.	n	imagegen videogen library
+creative	3b1b/manim	Make smooth explainer animations like the famous math videos.	n	animation explainer python
+creative	mifi/lossless-cut	Cut and join videos in seconds without losing quality.	n	videoedit cut lossless
+creative	getopenscreen/openscreen	Record your screen and make clean demo videos, no watermark.	n	screenrec demo video
+creative	GraphiteEditor/Graphite	A free design app for graphics, logos and simple animations.	n	design vector logos
+creative	Zulko/moviepy	Edit videos automatically with a few lines of code.	n	videoedit python automation
